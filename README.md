@@ -13,9 +13,11 @@
 
 ## Запуск программы
 
-1. Склонируйте репозиторий
+1. Склонируйте репозиторий 
+    ```bash
+   git clone https://github.com/Qu1nky/ArtifactGenerator
 2. Убедитесь, что установлен Python 3.11
 3. Запустите программу:
 
-```bash
-python main.py
+    ```bash
+    python main.py
